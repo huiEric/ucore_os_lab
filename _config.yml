@@ -1,0 +1,8 @@
+title: Ucore Labs
+description: ucore lab 1-8 codes and docs for OS course in Tsinghua University.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
